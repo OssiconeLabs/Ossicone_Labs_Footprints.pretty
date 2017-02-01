@@ -1,10 +1,10 @@
-(module Pin_Array_1_Round (layer F.Cu) (tedit 577A1CF4)
+(module Pin_Array_1_Round (layer F.Cu) (tedit 58920086)
   (descr "1 pin")
   (tags "CONN DEV")
-  (fp_text reference Pin_Array_1_Round (at 0 -2.7) (layer F.SilkS)
+  (fp_text reference Pin_Array_1_Round (at 0 -2.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value REF** (at 0 2.7) (layer F.SilkS) hide
+  (fp_text value REF** (at 0 2.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.5 1.5) (end 1.5 1.5) (layer F.CrtYd) (width 0.05))

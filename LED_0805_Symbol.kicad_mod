@@ -1,5 +1,5 @@
-(module LED_0805_Symbol (layer F.Cu) (tedit 577A1789)
-  (fp_text reference REF** (at 0 -2.1) (layer F.SilkS)
+(module LED_0805_Symbol (layer F.Cu) (tedit 589200A4)
+  (fp_text reference REF** (at 0 -2.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value LED_0805_Symbol (at 0 2.1) (layer F.Fab)
